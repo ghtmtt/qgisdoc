@@ -27,5 +27,4 @@ https://gitlab.com/rduivenvoorde/qgisdoc/blob/master/source/docs/user_manual/tra
 
 http://localhost/qgisdocs/en/docs/user_manual/trans.html
 
-
-
+.. include:: /substitutions.txt

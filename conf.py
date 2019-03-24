@@ -54,14 +54,6 @@ gettext_compact = False     # optional.
 rst_epilog = """
 .. |nix| image:: /static/common/nix.png
    :width: 1em
-.. |actionRun0| image:: /static/common/mAction.png
-   :width: 1.5em
-.. |actionRun1| image:: static/common/mAction.png
-   :width: 1.5em
-.. |actionRun2| image:: docs/user_manual/static/common/mAction.png
-   :width: 1.5em
-.. |actionRun3| image:: ../../static/common/mAction.png
-   :width: 1.5em
 """
 
 # -- Options for HTML output -------------------------------------------------
