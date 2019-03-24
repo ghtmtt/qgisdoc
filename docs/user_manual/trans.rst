@@ -29,12 +29,3 @@ http://localhost/qgisdocs/en/docs/user_manual/trans.html
 
 
 
-
-.. |actionRun0| image:: /static/common/mAction.png
-   :width: 1.5em
-.. |actionRun1| image:: static/common/mAction.png
-   :width: 1.5em
-.. |actionRun2| image:: docs/user_manual/static/common/mAction.png
-   :width: 1.5em
-.. |actionRun3| image:: ../../static/common/mAction.png
-   :width: 1.5em
