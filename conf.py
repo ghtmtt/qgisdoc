@@ -51,11 +51,6 @@ locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
 
 
-rst_epilog = """
-.. |nix| image:: /static/common/nix.png
-   :width: 1em
-"""
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for

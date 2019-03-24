@@ -27,4 +27,11 @@ https://gitlab.com/rduivenvoorde/qgisdoc/blob/master/source/docs/user_manual/tra
 
 http://localhost/qgisdocs/en/docs/user_manual/trans.html
 
-.. include:: /substitutions.txt
+.. |actionRun0| image:: /static/common/mAction.png
+   :width: 1.5em
+.. |actionRun1| image:: static/common/mAction.png
+   :width: 1.5em
+.. |actionRun2| image:: docs/user_manual/static/common/mAction.png
+   :width: 1.5em
+.. |actionRun3| image:: ../../static/common/mAction.png
+   :width: 1.5em
