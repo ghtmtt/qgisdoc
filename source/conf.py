@@ -59,6 +59,10 @@ gettext_compact = False     # optional.
 #html_theme = 'alabaster'
 html_theme = 'rtd_qgis'
 
+def setup(app):
+    app.add_stylesheet('css/custom.css')
+    app.add_javascript('js/custom.js')
+
 # https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html#theme-options
 # rtd / read the docs theme options:
 html_theme_options = {
